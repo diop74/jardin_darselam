@@ -18,4 +18,4 @@ Technologies utilisées :
 - EmailJS (formulaire de contact)
 - Lucide React (icônes)
 
-Ce projet est prêt à être déployé sur Netlify, Vercel ou tout autre service d’hébergement de sites statiques.
+

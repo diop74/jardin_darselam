@@ -34,7 +34,7 @@ const About: React.FC = () => {
     {
       name: "Hawa Thiam",
       role: "Directrice pédagogique",
-      image: "/images/WhatsApp Image 2025-08-28 at 20.40.09.jpeg",
+      image: "/public/images/WhatsApp Image 2025-08-28 at 20.40.09.jpeg",
       experience: "+15 ans d'expérience"
     },
     {

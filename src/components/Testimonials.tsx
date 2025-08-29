@@ -7,29 +7,29 @@ const Testimonials: React.FC = () => {
 
   const testimonials = [
     {
-      name: "Fatima El Mansouri",
-      role: "Maman de Yasmine (4 ans)",
+      name: "Khadijetou mint Houssein",
+      role: "Maman de Salma (4 ans)",
       content: "Dar Selam a transformé la vie de ma fille. Elle y va chaque matin avec le sourire et revient pleine d'histoires merveilleuses. L'équipe est exceptionnelle et très attentionnée.",
       rating: 5,
       image: "https://images.pexels.com/photos/3771074/pexels-photo-3771074.jpeg?auto=compress&cs=tinysrgb&w=200"
     },
     {
-      name: "Mohammed et Aicha Benali",
-      role: "Parents de Karim (2 ans) et Lina (5 ans)",
+      name: "Mariame",
+      role: "Maman de Awa (3 ans) et Adama (3 ans)",
       content: "Nous recommandons vivement Dar Selam. Nos deux enfants y ont appris l'autonomie, la socialisation et ont développé leur créativité dans un cadre sécurisé et bienveillant.",
       rating: 5,
       image: "https://images.pexels.com/photos/3760529/pexels-photo-3760529.jpeg?auto=compress&cs=tinysrgb&w=200"
     },
     {
-      name: "Leila Touati",
-      role: "Maman de Sofia (3 ans)",
+      name: "Aminata Gueue",
+      role: "Maman de Fatou Kine (3 ans)",
       content: "L'approche pédagogique de Dar Selam est remarquable. Ma fille a gagné en confiance et en autonomie. Les éducatrices sont à l'écoute et vraiment professionnelles.",
       rating: 5,
       image: "https://images.pexels.com/photos/3771071/pexels-photo-3771071.jpeg?auto=compress&cs=tinysrgb&w=200"
     },
     {
-      name: "Rachid Alaoui",
-      role: "Papa de Adam (4 ans)",
+      name: "Monsieur Diack",
+      role: "Papa de Amadou Diack (4 ans)",
       content: "En tant que père, je suis rassuré de savoir mon fils dans un environnement aussi bien structuré. Les activités sont variées et le suivi individualisé est appréciable.",
       rating: 5,
       image: "https://images.pexels.com/photos/3771077/pexels-photo-3771077.jpeg?auto=compress&cs=tinysrgb&w=200"
